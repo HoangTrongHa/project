@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    width:100%;
+}
+header{
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    width: 1300px;
+}
